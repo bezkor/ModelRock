@@ -22,5 +22,9 @@
 https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%BB%D1%96%D0%B4_%D0%93%D0%B0%D0%BB%D1%96%D0%BB%D0%B5%D1%8F_%D0%B7_%D0%BF%D0%B0%D0%B4%D1%96%D0%BD%D0%BD%D1%8F%D0%BC_%D1%82%D1%96%D0%BB
 
 
+https://pioneer-doc.readthedocs.io/ru/master/database/const-module/vmg/aero-vmg.html
+
+
+
 
 

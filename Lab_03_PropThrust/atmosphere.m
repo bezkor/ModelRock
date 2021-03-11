@@ -8,7 +8,7 @@ function atm=atmosphere(H=0,t0=15)
 % atm - запис з полями властивостей атмосфери
 % 
   if H > 11000,
-    error ("Bad value H");
+    H=11000;
   end;
 
   % Константи
